@@ -2,7 +2,7 @@
 /**
  * Created by jniu on 6/27/17.
  */
-//BFS
+//BFS 4%
 public class NumberOfIslands {
     public int numIslands(char[][] grid) {
         if(grid==null || grid.length == 0 || grid[0]==null) return 0;

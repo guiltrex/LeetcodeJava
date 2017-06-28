@@ -1,6 +1,7 @@
 /**
  * Created by jniu on 6/27/17.
  */
+//40%
 public class ProductOfArrayExceptSelf {
     public int[] productExceptSelf(int[] nums) {
         int fct = 1;
